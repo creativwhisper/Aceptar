@@ -1,0 +1,7 @@
+CHANGE LOG
+
+Versión 2.0.1
+- Modificado Inicio para que el sonido empiece inmediatamente y suene en loop.
+- Añadida transición a "0.0 Inicio" para que empiece desde negro hasta la pantalla de título.
+- Añadida transición entre "0.0 Inicio" y "0.1 Negacion" con una pantalla en negro y el pitido de muerte cardíaca.
+- Añadida transición a "0.1 Negación" para que empiece desde negro hasta mostrar el nivel.
